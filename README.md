@@ -1,10 +1,12 @@
-# Run code
+# Go Hello World
+
+## Run code
 
 ```go
 go run hello.go
 ```
 
-# Using external module
+## Using external module
 
 ```go
 go build
