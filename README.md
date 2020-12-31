@@ -3,3 +3,10 @@
 ```go
 go run hello.go
 ```
+
+# Using external module
+
+```go
+go build
+./hello
+```
